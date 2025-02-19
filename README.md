@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating a common type error. The function `function` attempts to add a number and a string, which results in a `TypeError`.  The solution demonstrates how to handle this error by using type checking or exception handling.
